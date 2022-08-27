@@ -1,4 +1,4 @@
-## Literals
+## Literals 
 
 A Protocol To Create And Distribute Provable Facts To Enable Trust
 
